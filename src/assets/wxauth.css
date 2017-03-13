@@ -1,0 +1,65 @@
+.qrcode-login{
+    color: #4d4d4d;
+    z-index: 1;
+    height:210px;
+    overflow:hidden;
+}
+.qrcode-login .qrcode-msg{
+    text-align: center;
+    margin-top: 40px;
+}
+.qrcode-login .qrcode-msg p {
+    font-size:12px;
+    margin-top: 10px;
+    text-align: center;
+}
+.qrcode-login .qrcode-msg{
+    display:none;
+}
+.qrcode-login .qrcode-msg h6 {
+    font-size: 14px;
+    color: #333;
+    margin-top: 15px;
+    font-weight: 700;
+    text-align: center;
+}
+.qrcode-login .refresh {
+    text-align: center;
+    font-size: 16px;
+    border-radius: 3px;
+    cursor: pointer;
+    zoom: 1;
+    padding: 0 20px;
+}
+.qrcode-login .qrcode-desc {
+    text-align: center;
+    padding-bottom: 10px;
+    overflow: hidden;
+}
+.qrcode-login .qrcode-main {
+    position: relative;
+    padding-bottom: 15px;
+    min-height: 130px;
+    _height: 130px;
+}
+.qrcode-login .qrcode-img {
+    width: 115px;
+    height: 115px;
+    margin: 0 auto;
+    padding: 7px;
+    box-shadow: 0 0 8px #DDD;
+    box-sizing: content-box;
+}
+.qrcode-login .qrcode-img img{
+    width:115px;
+    height:115px;
+}
+.fm-button {
+    display: inline-block!important;
+    height: 28px;
+    line-height: 28px;
+    background: #179B16;
+    text-align: center;
+    text-decoration: none!important;
+    color: #fff!important;
+}
