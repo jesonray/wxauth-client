@@ -12,6 +12,7 @@
   "require": {
     "yiisoft/yii2": ">=2.0.6",
     "guzzlehttp/guzzle": ">=6.0.0",
+    "raysoft/yii2-weui-asset": ">=1.0.0",
     "arcanedev/qr-code": ">=1.0.0"
   },
   "autoload": {
